@@ -1,0 +1,4 @@
+.idea
+__pycache__
+pizza/__pycache__
+out/*
